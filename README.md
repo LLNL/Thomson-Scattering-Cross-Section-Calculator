@@ -8,13 +8,11 @@ Code can be imported into MATLAB using the built in [GIT interface](https://www.
 
 Alternatively code can be downloaded and placed into a matlab accessible folder. All included dependencies must be accessible in the [matlab function search path](https://www.mathworks.com/help/matlab/matlab_env/what-is-the-matlab-search-path.html?searchHighlight=search%20path&s_tid=srchtitle_search%20path_1).
 
+The script "ThomsonScatteringTestScript.m" provides a worked example of how to use these functions to carry out a Thomson scattering cross-section calculation.
+
 ### Prerequisites
 
 Requires a MATLAB licence to run. There are no other prerequisites to run these scripts.
-
-## Getting Started
-
-The script "ThomsonScatteringTestScript.m" provides a worked example of how to use these functions to carry out a Thomson scattering cross-section calculation.
 
 ## Built With
 
@@ -27,6 +25,10 @@ Please read [CONTRIBUTING](https://github.com/LLNL/Thomson-Scattering-Cross-Sect
 ## Authors
 
 * **George Swadling** 
+
+## Referenceing
+
+This code is registered with [DOECODE](https://www.osti.gov/doecode/biblio/68245) with DOI https://doi.org/10.11578/dc.20211213.1. Following thess links wil provide a rnge of formats for citation.
 
 ## License
 
