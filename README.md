@@ -1,4 +1,4 @@
-# Thomson scattering Cross section Calculator (TSC)
+# Thomson scattering Cross-Section Calculator (TSC)
 
 This project contains MATLAB code for calculate cross-sections assoicated with Thomson scattering from thermally excited plasma waves.
 
@@ -6,9 +6,11 @@ This project contains MATLAB code for calculate cross-sections assoicated with T
 
 Code can be imported into MATLAB using the built in GIT interface: https://www.mathworks.com/help/matlab/matlab_prog/retrieve-from-git-repository.html
 
+Alternatively code can be downloaded and placed into a matlab accessible folder. All included dependencies must be accessible in the matlab function search path (https://www.mathworks.com/help/matlab/matlab_env/what-is-the-matlab-search-path.html?searchHighlight=search%20path&s_tid=srchtitle_search%20path_1).
+
 ### Prerequisites
 
-Requires a MATLAB licence to run. There are no prerequisites to run these scripts.
+Requires a MATLAB licence to run. There are no other prerequisites to run these scripts.
 
 ## Getting Started
 
@@ -16,7 +18,7 @@ The script "ThomsonScatteringTestScript.m" provides a worked example of how to u
 
 ## Built With
 
-* Faddeeva Package(http://ab-initio.mit.edu/wiki/index.php/Faddeeva_Package) - A fast calculate for the Faddeeva function. This sits at the heart of the calulation of these cross sections.
+* Faddeeva Package(http://ab-initio.mit.edu/wiki/index.php/Faddeeva_Package) - A fast calculator for the Faddeeva function. This sits at the heart of the calulation of these cross sections. Credit to Steven G. Johnson https://math.mit.edu/~stevenj/
 
 ## Contributing
 
