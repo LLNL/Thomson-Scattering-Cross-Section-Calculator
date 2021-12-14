@@ -1,6 +1,6 @@
 # Thomson scattering Cross-Section Calculator (TSC)
 
-This project contains MATLAB code for calculate cross-sections assoicated with Thomson scattering from thermally excited plasma waves.
+This project contains MATLAB code for calculate cross-sections assoicated with Thomson scattering from thermally excited plasma waves. A simple mathematical overview is provided in the [WIKI](https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculator/wiki/Calculation-of-the-Thomson-Scattering-Cross-Section).
 
 ## Getting Started
 
