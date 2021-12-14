@@ -18,7 +18,7 @@ The script "ThomsonScatteringTestScript.m" provides a worked example of how to u
 
 ## Built With
 
-* Faddeeva Package(http://ab-initio.mit.edu/wiki/index.php/Faddeeva_Package) - A fast calculator for the Faddeeva function. This sits at the heart of the calulation of these cross sections. Credit to Steven G. Johnson https://math.mit.edu/~stevenj/
+* Faddeeva Package (http://ab-initio.mit.edu/wiki/index.php/Faddeeva_Package) - A fast calculator for the Faddeeva function. This sits at the heart of the calulation of these cross sections. Credit goes to Steven G. Johnson https://math.mit.edu/~stevenj/
 
 ## Contributing
 
@@ -39,4 +39,3 @@ See [LICENSE] https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculato
 LLNL-CODE-829981
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculator/blob/main/LICENCE.md) file for details
-
