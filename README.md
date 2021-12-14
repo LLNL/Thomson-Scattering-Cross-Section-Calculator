@@ -35,5 +35,6 @@ All new contributions must be made under the MIT licenses.
 See [LICENSE] https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculator/blob/main/LICENCE.md and [NOTICE] https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculator/blob/main/NOTICE.md for details.
 
 LLNL-CODE-829981
+
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculator/blob/main/LICENCE.md) file for details
 
