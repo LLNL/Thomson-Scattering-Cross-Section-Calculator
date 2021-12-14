@@ -28,7 +28,7 @@ Please read [CONTRIBUTING.md] https://github.com/LLNL/Thomson-Scattering-Cross-S
 
 ## License
 
-This project distributed under the terms of both the MIT license.
+This project distributed under the terms of the MIT license.
 
 All new contributions must be made under the MIT licenses.
 
