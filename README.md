@@ -22,7 +22,7 @@ The script "ThomsonScatteringTestScript.m" provides a worked example of how to u
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculator/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING](https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculator/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
@@ -36,4 +36,4 @@ See [LICENSE](https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculato
 
 LLNL-CODE-829981
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculator/blob/main/LICENCE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculator/blob/main/LICENCE.md) file for details
