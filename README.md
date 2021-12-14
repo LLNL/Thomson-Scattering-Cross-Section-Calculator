@@ -24,9 +24,7 @@ Please read [CONTRIBUTING.md] for details on our code of conduct, and the proces
 
 ## Authors
 
-* **George Swadling** - *Initial work* -
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **George Swadling** 
 
 ## License
 
@@ -34,8 +32,8 @@ This project distributed under the terms of both the MIT license.
 
 All new contributions must be made under the MIT licenses.
 
-See [LICENSE] and [NOTICE] for details.
+See [LICENSE] https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculator/blob/main/LICENCE.md and [NOTICE] https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculator/blob/main/NOTICE.md for details.
 
 LLNL-CODE-829981
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/LLNL/Thomson-Scattering-Cross-Section-Calculator/blob/main/LICENCE.md) file for details
 
