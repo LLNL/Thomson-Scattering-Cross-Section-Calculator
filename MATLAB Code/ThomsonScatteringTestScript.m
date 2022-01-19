@@ -6,7 +6,7 @@ Te=1000; % electron temperature eV
 Ti=400; % ion temperature eV
 Z=2; % average ionization 
 A=4; % atomic mass 
-vI=4e7; % ion velocity [m s^-1]
+vI=0; % ion velocity [m s^-1]
 J=0;% plasma current [A cm^-3];
 fract=1; % fractional contribution to plasma (multi spieces plasma)
 lambda0 = (532); % Probe wavelength
@@ -22,19 +22,19 @@ nmLambda =1; % nm wavelength units flag
 
 figure('Color','white');
 nmLambda =1;
-plot(lambdaRange.*1E7,scatteringCrossSection)
+plot(lambdaRange,scatteringCrossSection)
 xlabel('Wavelength [nm]');
-ylabel('Cross Section [cm^-1 cm^-1 sr^-1]')
+ylabel('Cross Section [m^-1 nm^-1 sr^-1]')
 set(gca,'YScale','linear');
 
 
 %% Apply Arbitary Spectrometer Broadening
-instrumentWidth = 0.5e-7;
+instrumentWidth = 0.5; % gaussian stanrdard deviation of instrument fn in nm.
 scatteringCrossSection =gaussianBroadening(lambdaRange,scatteringCrossSection,instrumentWidth);
 
 figure('Color','white');
 
-plot(lambdaRange.*1E7,scatteringCrossSection.*1E-7)
+plot(lambdaRange,scatteringCrossSection)
 xlabel('Wavelength [nm]');
-ylabel('Cross Section Sr^{-1} cm^{-3} nm^[-1]')
+ylabel('Cross Section [m^-1 nm^-1 sr^-1]')
 set(gca,'YScale','linear');
